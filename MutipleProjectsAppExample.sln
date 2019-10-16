@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutipleProjectsAppExample", "FirstProject\MutipleProjectsAppExample.csproj", "{FD6161CA-BA51-4C50-BB48-F63319DAC570}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutipleProjectsAppExample", "FirstProject\FirstProject.csproj", "{FD6161CA-BA51-4C50-BB48-F63319DAC570}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondProject", "SecondProject\SecondProject.csproj", "{CD17FC1B-A007-49BC-8B28-B3A41F930F06}"
 EndProject
